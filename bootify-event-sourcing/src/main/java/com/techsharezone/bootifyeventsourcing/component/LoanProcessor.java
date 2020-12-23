@@ -1,4 +1,4 @@
-package com.techsharezone.loan;
+package com.techsharezone.bootifyeventsourcing.component;
 
 /*
  * @created 22/12/2020 -17:24
